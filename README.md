@@ -30,7 +30,7 @@ The API for this project is implemented using PHP. You can find the API code in 
 
 1. Clone the repository:
    shell
-   ```git clone https://github.com/your-username/flutter-crud-with-login.git```
+   ```git clone https://github.com/Gunarchive/Simple_Flutter_CRUD_Login.git```
 2. Open the project in your preferred Flutter development environment (e.g., Android Studio, Visual Studio Code).
 
 3. Install the dependencies by running the following command in the project root:
